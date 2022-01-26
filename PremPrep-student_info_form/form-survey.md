@@ -308,7 +308,7 @@ The course has both daytime and evening hours to accommodate varying needs and s
 
 * I plan to attend daytime hours (9:30am-4:30pm PST)
 * I plan to attend evening hours (6:30pm-9:30pm PST)
-* I plan to attend both daytime and evening hours(9:30am-4:30pm PST & 6:30pm-9:30pm PST)
+* I plan to attend both daytime and evening hours (9:30am-4:30pm PST & 6:30pm-9:30pm PST)
 
 ##### !end-options
 
@@ -783,7 +783,7 @@ your answer here...
 
 ##### !question
 
-If you have to choose a competitor who would it be and why?
+If you had to choose a competitor who would it be and why?
 
 ##### !end-question
 
@@ -937,7 +937,7 @@ I have interacted with the following Hack Reactor individuals (Check any and all
 * Workshop Instructor
 * Former Hack Reactor Graduate
 * I have not interacted with any Hack Reactor staff or graduates
-* Other (if selected, please give more context in #28)
+* Other
 
 ##### !end-options
 
@@ -959,7 +959,7 @@ I have interacted with the following Hack Reactor individuals (Check any and all
 
 ##### !question
 
-If selected Other in question #27
+If you selected **Other** in the previous question please give more context
 
 ##### !end-question
 
@@ -1043,7 +1043,7 @@ your answer here...
 * title: Any Concerns
 ##### !question
 
-(optional) If you have any other questions or concerns that we can address at this time, please enter them below:
+(Optional) If you have any other questions or concerns that we can address at this time, please enter them below:
 
 ##### !end-question
 
