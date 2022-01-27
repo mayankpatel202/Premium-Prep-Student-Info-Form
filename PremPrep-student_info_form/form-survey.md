@@ -1,5 +1,5 @@
 # Premium Prep - Student Info Form
-### Welcome to Premium Prep! Here you have access to high-quality curriculum that will help you learn JavaScript fundamentals. Before you get started, please tell us a bit more about yourself by completing the form below.
+### Welcome to Premium Prep- we are so glad you're joining us! To help us learn a little bit more about you and your goals, please fill out this form ASAP (before class starts). We look forward to meeting you in the near future!
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
 ### !challenge
 
@@ -959,7 +959,7 @@ I have interacted with the following Hack Reactor individuals (Check any and all
 
 ##### !question
 
-If you selected **Other** in the previous question please give more context
+If you selected **Other** in the previous question please give more context.
 
 ##### !end-question
 
