@@ -300,7 +300,7 @@ Which statement best describes your availability to practice code while taking t
 
 ##### !question
 
-The course has both daytime and evening hours to accommodate varying needs and schedules. With this flexibility in mind, which timeframe do you primarily plan to attend?
+The course has both daytime and evening hours to accommodate varying needs and schedules. Select the option below that matches your current time commitment in this class.
 
 ##### !end-question
 
