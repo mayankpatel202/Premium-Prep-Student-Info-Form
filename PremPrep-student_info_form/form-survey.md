@@ -306,15 +306,16 @@ The course has both daytime and evening hours to accommodate varying needs and s
 
 ##### !options
 
-* I plan to attend daytime hours (9:30am-4:30pm PST)
-* I plan to attend evening hours (6:30pm-9:30pm PST)
-* I plan to attend both daytime and evening hours (9:30am-4:30pm PST & 6:30pm-9:30pm PST)
+* I plan to attend daytime hours (9:30am-4:30pm PST) **only**
+* I plan to attend evening hours (6:30-9:30pm PST) **only**
+* I plan to attend both daytime and evening hours (9:30am-4:30pm PST & 6:30pm-9:30pm PST) **consistently**
+* I plan to attend both daytime and evening hours (9:30am-4:30pm PST & 6:30pm-9:30pm PST) **as I see fit**
 
 ##### !end-options
 
 ##### !answer
 
-* I plan to attend daytime hours (9:30am-4:30pm PST)
+* I plan to attend both daytime and evening hours (9:30am-4:30pm PST & 6:30pm-9:30pm PST) **as I see fit**
 
 ##### !end-answer
 ### !end-challenge
